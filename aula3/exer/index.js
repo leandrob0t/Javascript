@@ -1,0 +1,1 @@
+console.log('MEU NOME É "LEANDRO". ESTOU APRENDENDO JavaScript ÁS', 2 ,'DA TARDE.')
